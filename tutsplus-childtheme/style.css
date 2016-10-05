@@ -1,0 +1,15 @@
+/* 
+Theme Name: Create a Child Theme in WordPress
+Theme URI: http://tutsplus.com
+Description: Theme to support Envato Tuts+ coffee break course on child themes
+Author: Rachel McCollin
+Author URI: http://rachelmccollin.co.uk
+Template: twentysixteen
+Version: 1.0
+*/
+
+@import url("../twentysixteen/style.css")
+
+.site-branding .site-title a {
+  color: #777;
+}
